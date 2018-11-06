@@ -1,0 +1,3 @@
+git+https://github.com/Azure/msrest-for-python.git@175b1aa7275ca8e6575f437b0ae8cac8e95c7bb1
+botbuilder-core>=4.0.0.a6
+aiohttp>=3.0.0
